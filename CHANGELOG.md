@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.6](https://github.com/Krisscut/netconf-parser/compare/v1.6.5...v1.6.6) (2025-07-24)
+
+
+### Bug Fixes
+
+* path is unknown, use files instead ([9babeb7](https://github.com/Krisscut/netconf-parser/commit/9babeb7af289ee75617d823532b8c85ae95b4f1b))
+
 ## [1.6.5](https://github.com/Krisscut/netconf-parser/compare/v1.6.4...v1.6.5) (2025-07-24)
 
 
