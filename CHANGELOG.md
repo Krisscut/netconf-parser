@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.9](https://github.com/Krisscut/netconf-parser/compare/v1.6.8...v1.6.9) (2025-07-24)
+
+
+### Bug Fixes
+
+* move back requirement to root dir and adapt build accordingly ([8f3ded2](https://github.com/Krisscut/netconf-parser/commit/8f3ded224b1f27344f8b57dafb5d5693cdc90bca))
+
 ## [1.6.8](https://github.com/Krisscut/netconf-parser/compare/v1.6.7...v1.6.8) (2025-07-24)
 
 
