@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.7](https://github.com/Krisscut/netconf-parser/compare/v1.6.6...v1.6.7) (2025-07-24)
+
+
+### Bug Fixes
+
+* add wildcard to file pattern ([094aafc](https://github.com/Krisscut/netconf-parser/commit/094aafcdd15098aedb8cb59270c621cdbf98504f))
+
 ## [1.6.6](https://github.com/Krisscut/netconf-parser/compare/v1.6.5...v1.6.6) (2025-07-24)
 
 
