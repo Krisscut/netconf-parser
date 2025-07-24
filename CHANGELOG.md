@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.4](https://github.com/Krisscut/netconf-parser/compare/v1.6.3...v1.6.4) (2025-07-24)
+
+
+### Bug Fixes
+
+* Use secret token for release so that other workflows are trigerred ([d8eb34d](https://github.com/Krisscut/netconf-parser/commit/d8eb34d5d1f41169a271fb45a392cd9e6460bc95))
+
 ## [1.6.2](https://github.com/Krisscut/netconf-parser/compare/v1.6.1...v1.6.2) (2025-07-24)
 
 
