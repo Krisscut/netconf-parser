@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.7.0](https://github.com/Krisscut/netconf-parser/compare/v1.6.9...v1.7.0) (2025-07-24)
+
+
+### Features
+
+* Added pytest build step in workflows ([16b5d03](https://github.com/Krisscut/netconf-parser/commit/16b5d03919d47f30588f7747cb1b58d3cba51310))
+
+
+### Bug Fixes
+
+* pyinstaller fix attempt for missing file ([812859f](https://github.com/Krisscut/netconf-parser/commit/812859fae8096b3226e3619d9d6e08da2fc68331))
+
 ## [1.6.9](https://github.com/Krisscut/netconf-parser/compare/v1.6.8...v1.6.9) (2025-07-24)
 
 
