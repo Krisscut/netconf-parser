@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.8.0](https://github.com/Krisscut/netconf-parser/compare/v1.7.1...v1.8.0) (2025-07-24)
+
+
+### Features
+
+* configure pylint and add it as well as pytest to the requirements file ([beb68b5](https://github.com/Krisscut/netconf-parser/commit/beb68b50f1e9d9861a404085bb5b483372050b51))
+
+
+### Bug Fixes
+
+* pytest to run on master branch ([4f67470](https://github.com/Krisscut/netconf-parser/commit/4f6747051874fb381adeba6306f7e030f76816f8))
+
 ## [1.7.1](https://github.com/Krisscut/netconf-parser/compare/v1.7.0...v1.7.1) (2025-07-24)
 
 
