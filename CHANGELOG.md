@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.1](https://github.com/Krisscut/netconf-parser/compare/v1.7.0...v1.7.1) (2025-07-24)
+
+
+### Bug Fixes
+
+* Correction of dev mode display. ([005f18e](https://github.com/Krisscut/netconf-parser/commit/005f18eb8242122f696478140a07e6ef7bc693e6))
+
 ## [1.7.0](https://github.com/Krisscut/netconf-parser/compare/v1.6.9...v1.7.0) (2025-07-24)
 
 
