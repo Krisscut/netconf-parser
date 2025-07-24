@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.2](https://github.com/Krisscut/netconf-parser/compare/v1.6.1...v1.6.2) (2025-07-24)
+
+
+### Bug Fixes
+
+* Improve readme & workflow name ([130a2f8](https://github.com/Krisscut/netconf-parser/commit/130a2f8a0cb6e9e980d93d8841c0e9117e60cef0))
+
 ## [1.6.1](https://github.com/Krisscut/netconf-parser/compare/v1.6.0...v1.6.1) (2025-07-24)
 
 
