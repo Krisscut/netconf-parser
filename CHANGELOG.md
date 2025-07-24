@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.5](https://github.com/Krisscut/netconf-parser/compare/v1.6.4...v1.6.5) (2025-07-24)
+
+
+### Bug Fixes
+
+* change expected location of file for build release ([7e124c5](https://github.com/Krisscut/netconf-parser/commit/7e124c536d7975860abb15d6166e1959cdc3e71d))
+
 ## [1.6.4](https://github.com/Krisscut/netconf-parser/compare/v1.6.3...v1.6.4) (2025-07-24)
 
 
