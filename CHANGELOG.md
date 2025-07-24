@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.6.2](https://github.com/Krisscut/netconf-parser/compare/v1.6.1...v1.6.2) (2025-07-24)
+
+
+### Bug Fixes
+
+* add wildcard to file pattern ([094aafc](https://github.com/Krisscut/netconf-parser/commit/094aafcdd15098aedb8cb59270c621cdbf98504f))
+* change expected location of file for build release ([7e124c5](https://github.com/Krisscut/netconf-parser/commit/7e124c536d7975860abb15d6166e1959cdc3e71d))
+* Improve readme & workflow name ([130a2f8](https://github.com/Krisscut/netconf-parser/commit/130a2f8a0cb6e9e980d93d8841c0e9117e60cef0))
+* path is unknown, use files instead ([9babeb7](https://github.com/Krisscut/netconf-parser/commit/9babeb7af289ee75617d823532b8c85ae95b4f1b))
+* Use secret token for release so that other workflows are trigerred ([d8eb34d](https://github.com/Krisscut/netconf-parser/commit/d8eb34d5d1f41169a271fb45a392cd9e6460bc95))
+
 ## [1.6.1](https://github.com/Krisscut/netconf-parser/compare/v1.6.0...v1.6.1) (2025-07-24)
 
 
