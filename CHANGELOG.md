@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.8](https://github.com/Krisscut/netconf-parser/compare/v1.6.7...v1.6.8) (2025-07-24)
+
+
+### Bug Fixes
+
+* Try to fix generated binary errors when built by actions ([e19e85a](https://github.com/Krisscut/netconf-parser/commit/e19e85a2ceb08012e871358057394f372ed8ff9a))
+
 ## [1.6.7](https://github.com/Krisscut/netconf-parser/compare/v1.6.6...v1.6.7) (2025-07-24)
 
 
